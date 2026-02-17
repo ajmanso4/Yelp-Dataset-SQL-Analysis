@@ -1,4 +1,4 @@
-# My SQL for Data Science at UC Davis through Coursera course final December 2023 Revamped:
+# My SQL for Data Science at UC Davis through Coursera course final - December 2023 Revamped:
 
 Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset Coursera Worksheet
 
@@ -43,6 +43,7 @@ No
 
 ## 5. List the cities with the most reviews in descending order:
 <img width="213" height="52" alt="Screenshot 2026-02-16 at 22 59 40" src="https://github.com/user-attachments/assets/51ae4540-bedf-48aa-9b38-707d2c2fe15b" />
+
 <img width="531" height="602" alt="Screenshot 2026-02-16 at 23 00 00" src="https://github.com/user-attachments/assets/730344c4-51f7-403f-a0bd-dc0bb197e1b9" />
 
 
@@ -58,9 +59,13 @@ No
 Technically yes. But a very weak correlations. As the people who posted 0 or very few reviews have little to no fans, whereas the people who at the least started posting a lot of reviews start to gain more fans.
 HOWEVER, as we see with the users ranked by the most fans below, The Average review_count for the people who have over 100 fans is 891.5, versus an average of a 22.9 review_count for the people who have less than 100 fans. 
 
+
 More reviews does not mean the more fans. 
+
 <img width="315" height="386" alt="Screenshot 2026-02-16 at 23 05 15" src="https://github.com/user-attachments/assets/066c4c32-709f-4d8e-a3e5-680b693b1acc" />
+
 The Average review_count for the people who have over 100 fans is 891.5, versus 22.9 reviews for the people who have less than 100 fans. 
+
 <img width="155" height="211" alt="Screenshot 2026-02-16 at 23 05 32" src="https://github.com/user-attachments/assets/1dcf1605-4fef-4aba-8cf8-688b9dfe3233" />
 
 
