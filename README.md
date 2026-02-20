@@ -1,4 +1,4 @@
-# SQL for Data Science at UC Davis through Coursera final - December 2023:
+# SQL for Data Science UC Davis (Coursera) final - December 2023:
 
 Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset Coursera Worksheet
 
